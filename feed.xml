@@ -3,10 +3,30 @@
     <title>pruba web 1</title>
     <link href="https://psalazarroman.github.io/2asirAFH2526/carpeta01/feed.xml" rel="self" />
     <link href="https://psalazarroman.github.io/2asirAFH2526/carpeta01" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2025-10-15T20:06:28+02:00</updated>
     <author>
         <name>peter</name>
     </author>
     <id>https://psalazarroman.github.io/2asirAFH2526/carpeta01</id>
 
+    <entry>
+        <title>nueva entrada</title>
+        <author>
+            <name>peter</name>
+        </author>
+        <link href="https://psalazarroman.github.io/2asirAFH2526/carpeta01/nueva-entrada.html"/>
+        <id>https://psalazarroman.github.io/2asirAFH2526/carpeta01/nueva-entrada.html</id>
+
+        <updated>2025-10-15T20:06:28+02:00</updated>
+            <summary>
+                <![CDATA[
+                    contenido de un articulo
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>contenido de un articulo</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
